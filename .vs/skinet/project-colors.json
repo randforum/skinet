@@ -10,7 +10,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "93ac016b-b2c4-41c6-afc8-81118398d45f": {
+      "ProjectGuid": "93ac016b-b2c4-41c6-afc8-81118398d45f",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    },
+    "d736b711-830c-4e37-adbe-4e9be4f750ff": {
+      "ProjectGuid": "d736b711-830c-4e37-adbe-4e9be4f750ff",
+      "DisplayName": "Core",
+      "ColorIndex": 2
+    },
+    "43d9b7ac-f571-4e36-a8dc-ac7bce851058": {
+      "ProjectGuid": "43d9b7ac-f571-4e36-a8dc-ac7bce851058",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
